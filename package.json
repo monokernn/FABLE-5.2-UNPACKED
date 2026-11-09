@@ -1,0 +1,10 @@
+{
+  "name": "fable-5.2-unpacked",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A readable, source-traceable edition of the published Fable 5.2 prompt dump.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs", "check": "node scripts/check.mjs" },
+  "engines": { "node": ">=20" }
+}

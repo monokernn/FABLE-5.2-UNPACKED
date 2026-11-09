@@ -1,0 +1,6 @@
+* text=auto
+*.md text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+source/CLAUDE-CODE-FABLE-5.2.txt -text

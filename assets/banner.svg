@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 460" width="1600" height="460" role="img" aria-labelledby="title desc">
+ <title id="title">Fable 5.2 Unpacked</title><desc id="desc">System instructions, tools and skills. A readable edition of the published prompt dump.</desc>
+ <rect width="1600" height="460" rx="20" fill="#f6f3ec"/>
+ <path d="M0 52H1600M72 0V460M1528 0V460" stroke="#ded9ce" fill="none"/>
+ <g font-family="Arial,Helvetica,sans-serif" fill="#21201e">
+  <text x="100" y="33" font-size="15" letter-spacing="2.2">PROMPT ARCHIVE</text><text x="1500" y="33" text-anchor="end" font-size="15" fill="#797269">FORMATTED EDITION / 5.2</text>
+  <text x="100" y="172" font-size="91" font-weight="750" letter-spacing="-5">FABLE 5.2</text>
+  <text x="100" y="267" font-size="91" font-weight="750" letter-spacing="-5" fill="#bd6549">UNPACKED</text>
+  <text x="104" y="326" font-size="24" fill="#625b54">The instructions. The tools. The working context.</text>
+  <g font-size="14" font-weight="600"><rect x="102" y="367" width="132" height="33" rx="16.5" fill="#e5e1d8"/><text x="168" y="389" text-anchor="middle">MARKDOWN</text><rect x="244" y="367" width="124" height="33" rx="16.5" fill="#e8d3c8"/><text x="306" y="389" text-anchor="middle">TRACEABLE</text><rect x="378" y="367" width="143" height="33" rx="16.5" fill="#dbe4d6"/><text x="449" y="389" text-anchor="middle">RAW INCLUDED</text></g>
+ </g>
+ <g transform="translate(1000,93)">
+  <rect width="465" height="303" rx="14" fill="#252420"/>
+  <path d="M0 41H465" stroke="#454239"/>
+  <circle cx="23" cy="21" r="5" fill="#cc8069"/><circle cx="41" cy="21" r="5" fill="#d8b669"/><circle cx="59" cy="21" r="5" fill="#90a986"/>
+  <g font-family="Consolas,Menlo,monospace" font-size="17"><text x="92" y="27" fill="#b6b0a4">system-instructions.md</text><text x="27" y="85" fill="#e4b49a">## Claude behavior</text><text x="27" y="118" fill="#e8e3d9">tone · writing · research</text><text x="27" y="170" fill="#b9c9a8">## Agentic behavior</text><text x="27" y="203" fill="#e8e3d9">plan · work · deliver</text><path d="M27 229H438" stroke="#454239"/><text x="27" y="266" fill="#b5aea0">source → structure → context</text></g>
+ </g>
+</svg>

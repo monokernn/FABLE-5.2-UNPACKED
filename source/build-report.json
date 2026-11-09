@@ -1,0 +1,12 @@
+{
+  "sourceSha256": "d54e74e3ffd318c3cd0df3ea71f3e54efdd862ee5d988c03206bff10834e3522",
+  "sourceBytes": 957315,
+  "sourceLines": 7832,
+  "blocks": 67,
+  "initialTools": 67,
+  "deferredTools": 62,
+  "skills": 44,
+  "coreBytes": 124377,
+  "sourcePartitionVerified": true,
+  "initialSchemasParsed": true
+}

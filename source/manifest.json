@@ -1,0 +1,24 @@
+{
+  "retrievedAt": "2026-11-09T22:56:12.304Z",
+  "repository": "https://github.com/elder-plinius/CL4R1T4S",
+  "commit": "84cd1bf98a8bc395cdcd44b9f420484d0d60881a",
+  "sources": [
+    {
+      "name": "CLAUDE-CODE-FABLE-5.2.txt",
+      "url": "https://raw.githubusercontent.com/elder-plinius/CL4R1T4S/84cd1bf98a8bc395cdcd44b9f420484d0d60881a/ANTHROPIC/CLAUDE-CODE-FABLE-5.2.txt",
+      "bytes": 957315,
+      "sha256": "d54e74e3ffd318c3cd0df3ea71f3e54efdd862ee5d988c03206bff10834e3522"
+    },
+    {
+      "name": "CLAUDE-FABLE-5.md",
+      "url": "https://raw.githubusercontent.com/elder-plinius/CL4R1T4S/84cd1bf98a8bc395cdcd44b9f420484d0d60881a/ANTHROPIC/CLAUDE-FABLE-5.md",
+      "bytes": 122750,
+      "sha256": "1ef1257c67ebee68925e09206b4998755e5a10ac08af9ef9b5f30c17a897aa4c"
+    }
+  ],
+  "license": {
+    "name": "GNU Affero General Public License v3.0",
+    "spdx": "AGPL-3.0",
+    "url": "https://github.com/elder-plinius/CL4R1T4S/blob/main/LICENSE"
+  }
+}
